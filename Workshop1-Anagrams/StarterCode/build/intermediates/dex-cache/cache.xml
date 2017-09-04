@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/darkes/Documents/AppliedCS/Workshop1-Anagrams/StarterCode/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="723304ccdcbc0824a830fec18c7a27696a82152f">
+        <dex dex="/home/darkes/Documents/AppliedCS/Workshop1-Anagrams/StarterCode/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_13e55b3d3232253dfecb4a8578c0e68b6fd44b8e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/darkes/Documents/AppliedCS/Workshop1-Anagrams/StarterCode/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/home/darkes/Documents/AppliedCS/Workshop1-Anagrams/StarterCode/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c4fcd395ffc6288fb90ad58b6a916e514bcd47ce/classes.dex" />
+    </item>
+
+</items>

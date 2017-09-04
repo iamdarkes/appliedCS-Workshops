@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ScarneDice</string>
+    <string name="user_score_text">User Score: 0</string>
+    <string name="computer_score_text">Computer Score: 0</string>
+    <string name="roll_button">Roll</string>
+    <string name="hold_button">Hold</string>
+    <string name="reset_button">Reset</string>
+</resources>
